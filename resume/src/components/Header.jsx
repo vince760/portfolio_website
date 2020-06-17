@@ -33,7 +33,7 @@ const Header = () => {
                     As a prior business owner I understand the pride in accomplishing and building something from the ground up.
                     I found a passion in coding. Writing clean, concise code that gives users the experience they want and deserve.
                     Being able to sit behind a computer and decipher what these thousand lines of code mean, or why is it operating a certain way blows me away,
-                    it's like putting pieces to a puzzle you haven't created yet".</h3>
+                    it's like putting pieces to a puzzle you haven't created yet.</h3>
                     <hr />
                     <ul className="social">
 

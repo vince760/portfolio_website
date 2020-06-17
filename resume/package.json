@@ -1,5 +1,5 @@
 {
-  "name": "componentize-1",
+  "name": "portfolio-resume",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://vince760.github.io/portfolio_website/",
@@ -7,6 +7,7 @@
     "@fortawesome/fontawesome-free": "^5.13.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.28",
     "@fortawesome/free-brands-svg-icons": "^5.13.0",
+    "@fortawesome/free-solid-svg-icons": "^5.13.0",
     "@fortawesome/react-fontawesome": "^0.1.10",
     "@material-ui/core": "^4.10.2",
     "add": "^2.0.6",
@@ -26,6 +27,7 @@
     "react-toastify": "^6.0.5",
     "reactstrap": "^8.4.1",
     "sabio-debug": "https://github.com/sabiocode/debug",
+    "sass": "^1.26.8",
     "sweetalert2": "^9.14.0",
     "sweetalert2-react-content": "^3.0.1",
     "yarn": "^1.22.4"

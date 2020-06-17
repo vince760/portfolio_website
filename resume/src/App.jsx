@@ -3,6 +3,7 @@ import Header from '../src/components/Header'
 import About from "../src/components/About"
 import Resume from '../src/components/Resume'
 import Portfolio from '../src/components/Portfolio'
+import Contact from '../src/components/Contact'
 import "./App.css";
 
 class App extends Component {
@@ -14,7 +15,8 @@ class App extends Component {
           <About />
           <Resume />
           <Portfolio />
-          
+          <Contact />
+
         </div>
       </React.Fragment>
     );
