@@ -33,7 +33,7 @@ const Portfolio = () => {
 
                     <h1>Check Out Some of My Work.</h1>
 
-                    <div style={{ maxBlockSize: 10 }}>
+                    <div style={{ maxBlockSize: 10, minHeight: 700 }}>
 
                         <ImageGallery
                             items={images}
