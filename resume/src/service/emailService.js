@@ -2,7 +2,7 @@ import axios from "axios";
 
 const sendEmail = (data) => {
     const config = {
-        method: "GET",
+        method: "POST",
         url: `${baseUrl}/timesheet?pageIndex=${pageIndex}&pageSize=${pageSize}&jobid=${jobId}&empid=${empId}`,
         xhrFields: {
             withCredentials: true,

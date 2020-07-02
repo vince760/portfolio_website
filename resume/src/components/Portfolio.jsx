@@ -10,13 +10,14 @@ const Portfolio = () => {
 
     const images = [
         {
-            original: require("../images/forceTracker.jpg"),
-            thumbnail: require("../images/forceTracker.jpg")
+            original: require("../images/SourceOne.jpg"),
+            thumbnail: require("../images/SourceOne.jpg")
         },
         {
-            original: "http://lorempixel.com/1000/600/nature/2/",
-            thumbnail: "http://lorempixel.com/250/150/nature/2/"
+            original: require("../images/forceTracker.jpg"),
+            thumbnail: require("../images/forceTracker.jpg")
         }
+        
         
     ];
 
